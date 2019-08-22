@@ -1,0 +1,14 @@
+crossfade=1
+crossfadeTime=50
+showMeter=1
+chanCVImmediate=1
+startCVImmediate=0
+looping=0
+anyAudioFiles=1
+pitchMode=1
+quantizeRootPot=0
+quantizeRootCV=0
+startCVDivider=1
+setLowNote=0
+setNoteRange=52
+setRootNote=24
