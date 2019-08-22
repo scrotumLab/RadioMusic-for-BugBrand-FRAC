@@ -5,7 +5,7 @@ This project was only made possible because Tom Whitwell licensed all hardware a
 Without him or other great creators like Emilie Gillet, I would have been incapable of doing the Scrotum Lab adaptations for the BugBrand system.
 
 Here you will find:
-- The last version (v3.2) of the schematics and board files in Diptrace format.
+- The latest version of the schematics and board files in Diptrace format.
 - The Arduino code which was changed to allow mixing & attenuation to the circuit and works on v3.x versions of the Scrotum Lab module (not the earlier versions which still use the original Music Thing Modular code). 
 - The frontpanel design as GERBER file (frontpanels in the BugBrand system are made of PCB material).
 - The settings.txt file to put on your SD Card.
