@@ -1,4 +1,4 @@
-# RadioMusic-for-BugBrand-FRAC
+# RadioMusic v3.2 for BugBrand Modular System
 With the permission of Tom Whitwell (Music Thing Modular), creator of [the original Radio Music module](https://github.com/TomWhitwell/RadioMusic), Scrotum Lab made different versions of the project compatible with the BugBrand Modular System in FRAC format.
 
 This project was only made possible because Tom Whitwell licensed all hardware and software design as Creative Commons: [CC-BY-SA: Attribution / ShareAlike](https://creativecommons.org/licenses/by-sa/3.0/), allowing people to learn and share knowledge.  
