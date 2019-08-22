@@ -11,3 +11,4 @@ Instead of 3.5mm plugs, banana plugs are used like the ones found on the BugBran
 • These CV inputs now accept bipolar signal -5V/+5V or unipolar +10V.<br> 
 • Mostly all through hole components were replaced by SMD components (0805).<br> 
 
+![Scrotum-Lab-Radio-Music-v3 1](https://user-images.githubusercontent.com/39232489/63490793-d13be980-c4b5-11e9-9c12-ad146505ee79.jpg)
