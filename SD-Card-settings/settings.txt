@@ -10,5 +10,5 @@ quantizeRootPot=0
 quantizeRootCV=0
 startCVDivider=1
 setLowNote=0
-setNoteRange=52
+setNoteRange=48
 setRootNote=24
